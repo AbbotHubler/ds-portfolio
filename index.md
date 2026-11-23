@@ -41,11 +41,19 @@ Outside of my technical skills, I also value communication, teamwork, and collab
 
 ## Career Goals
 
-One of my main career goals is to work in a data science position where I can help businesses make more informed decisions. I am interested in how businesses can use data to identify trends, improve efficiency, and solve problems. I would like to pursue a career that allows me to apply my interests in mathematics and statistics while continuing to develop my technical skills.
+### My Goal: Stronger Organization and Project Management
 
-To work toward this goal, I plan to practice my programming abilities and develop a better understanding of statistical modeling and machine learning. I also want to complete independent data science projects that will allow me to apply the concepts I learn throughout my education.
+One of the career goals I am currently working toward is improving my **organizational and project management skills**. In data science, being organized is important for keeping datasets, code, and project files structured and easy to understand. As a data science student, I have also realized how much organization matters when balancing coursework, assignments, and other responsibilities.
 
-Another goal of mine is to gain professional experience through an internship before graduating. This would allow me to better understand how data science is used in a professional environment and help me determine which areas of the field I am most interested in pursuing long-term.
+I am working on this goal by keeping **daily to-do lists**, prioritizing important tasks, and using the **two-minute rule**: if something takes less than two minutes, I do it right away. One thing I still struggle with is planning my next day the night before. I often forget and end up doing it in the morning instead, so I have started adding next-day planning to my to-do list. I hope these small changes will help me become more consistent and efficient.
+
+### Career Interest: Financial Data Analyst
+
+In the future, I would like to work in **finance**, potentially as a **financial data analyst**. Someone in this role uses financial information to identify trends, evaluate performance, and help an organization make informed decisions. The job requires more than working with numbers: it also involves keeping data accurate, organizing analyses, and explaining findings clearly.
+
+My earlier coursework in **statistics and R programming** connects directly to this interest. Learning to analyze data, visualize results, and interpret statistical findings has shown me how quantitative skills can support real decisions. I want to continue building those technical skills while improving how I manage my work.
+
+My long-term goal is to develop organizational habits I can carry into my career, gain experience with real-world datasets, and eventually pursue an internship where I can see how data analysis is used in finance.
 
 ---
 
